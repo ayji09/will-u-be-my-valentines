@@ -19,3 +19,6 @@
 
 **v1.0.3**
 - BUG FIX: Path errors
+
+**v1.0.4**
+- BUG FIX: Path errors
