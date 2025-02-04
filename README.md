@@ -5,5 +5,5 @@
 |                     |                     |
 | ------------------- | --------------------|
 | **Description**     | A Simple Page for Valentines, asking for a loved-one for a date in February 14 (2025 Edition) |
-| **Project Started**    | February 3, 2025 |
-| **Current Version** | v0.0.1 |
+| **Project Duration**    | February 3-4, 2025 |
+| **Current Version** | v1.0.0 |
