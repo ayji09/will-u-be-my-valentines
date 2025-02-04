@@ -13,3 +13,6 @@
 
 **v1.0.1**
 - Replace index.html to a right place
+
+**v1.0.2**
+- BUG FIX: Path errors
