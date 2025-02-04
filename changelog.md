@@ -10,3 +10,6 @@
 - It is now completed
 - Completed after 1 hour of coding
 - Added Images assets (Credits for those images)
+
+**v1.0.1**
+- Replace index.html to a right place
