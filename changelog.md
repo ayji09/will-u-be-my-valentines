@@ -31,3 +31,6 @@
 
 **v1.0.7**
 - BUG FIX: Path errors
+
+**v1.0.8**
+- BUG FIX: Path errors
