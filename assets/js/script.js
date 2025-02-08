@@ -73,7 +73,7 @@ function backtoImage() {
         }
         else if (imagePhase == 3) {
             image.src = 'assets/images/content-pics/img-4.jpg';
-            question.textContent = "I can't imagine a day without you!";
+            question.textContent = "I can't imagine a day without you RAAAHHHHH!";
         }
         else if (imagePhase == 4) {
             image.src = 'assets/images/content-pics/img-5.jpg';
@@ -85,7 +85,7 @@ function backtoImage() {
         }
         else if (imagePhase == 6) {
             image.src = 'assets/images/content-pics/img-7.jpg';
-            question.textContent = "I’ll do anything, just say yes!";
+            question.textContent = "I’ll do anything for u, just say yes!";
         }
         image.classList.remove('fade');
     }, 180); 
