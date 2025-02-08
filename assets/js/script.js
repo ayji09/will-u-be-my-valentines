@@ -43,13 +43,13 @@ function changeImage() {
         question.textContent = "Don't break my heart...";
     }
     else if (imagePhase == 3) {
-        question.textContent = "You’re my only hope...";
+        question.textContent = "Sige lulutuin ko si Maku...";
     }
     else if (imagePhase == 4) {
-        question.textContent = "Please, I’m begging you...";
+        question.textContent = "Ayaw mo tlga ah, mwah mwah ka sa'kin...";
     }
     else if (imagePhase == 5) {
-        question.textContent = "You’re all I want...";
+        question.textContent = "Bilis na Baby...";
     }
     else if (imagePhase == 6) {
         question.textContent = "Please, don’t leave me hanging...";
