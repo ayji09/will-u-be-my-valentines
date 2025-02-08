@@ -65,7 +65,7 @@ function backtoImage() {
     setTimeout(() => {
         if (imagePhase == 1) {
             image.src = 'assets/images/content-pics/img-1.jpg';
-            question.textContent = "Will you be my valentine?";
+            question.textContent = "Will you be my valentine seyo?";
         }
         else if (imagePhase == 2) {
             image.src = 'assets/images/content-pics/img-3.jpg';
@@ -77,7 +77,7 @@ function backtoImage() {
         }
         else if (imagePhase == 4) {
             image.src = 'assets/images/content-pics/img-5.jpg';
-            question.textContent = "Please, I just need this from you.";
+            question.textContent = "Magiging Core Memory natin 'to.";
         }
         else if (imagePhase == 5) {
             image.src = 'assets/images/content-pics/img-6.jpg';
