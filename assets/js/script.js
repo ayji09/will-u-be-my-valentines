@@ -117,7 +117,7 @@ button_yes.addEventListener('click', () =>{
     button_area.textContent = "Thank you for being my valentine seyo, See you! <3";
     question.textContent = "YAY!"
     setTimeout(() => {
-        image.src = 'assets/images/content-pics/img-8.jpg';
+        image.src = 'assets/images/content-pics/img-8.gif';
         image.classList.remove('fade');
     }, 180 )
 });
